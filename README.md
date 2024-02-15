@@ -9,7 +9,7 @@ I'm Vinay Kumar, a passionate software engineering student with a strong foundat
 * 👨‍💻 MERN stack proficiency 
 * 📽️ Project experience 
 * 👨‍🏫 Teaching experience 
-I'm excited to connect with other developers and discuss interesting technical challenges. Feel free to reach out if you have any questions or just want to chat about DSA or web development!
+#### I'm excited to connect with other developers and discuss interesting technical challenges. Feel free to reach out if you have any questions or just want to chat about DSA or web development!
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vinaykumar.dev01@gmail.com](mailto:vinaykumar.dev01@gmail.com)
