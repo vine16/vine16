@@ -5,10 +5,10 @@ Full Stack Developer
 --------------------
 
 I'm Vinay Kumar, a passionate software engineering student with a strong foundation in Data Structures and Algorithms (DSA) and a knack for building web applications with the MERN stack (MongoDB, Express.js, React, Node.js). I'm currently in my third year at Gurugram University, pursuing a BEng in Artificial Intelligence. As a deep learner, I'm always eager to tackle new challenges and expand my knowledge. I find immense joy in discussing and solving DSA problems, and I'm constantly looking for opportunities to collaborate and learn from others. Here's what I bring to the table: 
-🥷 Solid understanding of DSA 
-👨‍💻 MERN stack proficiency 
-📽️ Project experience 
-👨‍🏫 Teaching experience 
+* 🥷 Solid understanding of DSA 
+* 👨‍💻 MERN stack proficiency 
+* 📽️ Project experience 
+* 👨‍🏫 Teaching experience 
 I'm excited to connect with other developers and discuss interesting technical challenges. Feel free to reach out if you have any questions or just want to chat about DSA or web development!
 
 * 🌍  I'm based in India
